@@ -84,7 +84,7 @@ main {
 
 @media (max-width: 1000px) {
     main {
-        margin: 10px;
+        margin: 0;
         grid-template-columns: repeat(1, 1fr);
     }
 }

@@ -1,61 +1,67 @@
 {
   "LogoSection": {
     "LogoPath": "https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEORZak_nw7oV0Py9QUyEmCiZh3SRfuWmeyO4atfLJ7HTFuT0DWh2BOrG3i9GIznxvZbSohgroheJHsbcEdumL3KfMsgm=w1160-h956",
-    "Title": "Терехов Алексей",
+    "Title": "Terekhov Aleksey",
     "Description": ".net/C# developer"
   },
-  "LocationSection": {
-    "Title": "Адрес",
-    "Location": {
-      "Icon": "geo-alt",
-      "Title": "Минск, Беларусь",
-      "Link": "https://goo.gl/maps/Q1ShFAkR2QjbqQ6L9"
+  "ContactSections": [
+    {
+      "Title": "Location",
+      "Items": [
+        {
+          "Icon": "geo-alt",
+          "Title": "Minsk, Belarus",
+          "Link": "https://goo.gl/maps/Q1ShFAkR2QjbqQ6L9"
+        }
+      ]
+    },
+    {
+      "Title": "Contacts",
+      "Items": [
+        {
+          "Icon": "telephone-inbound-fill",
+          "Title": "+375(29)556-50-21",
+          "Link": "tel:+375295565021"
+        },
+        {
+          "Icon": "envelope-at",
+          "Title": "375295565021@yandex.ru",
+          "Link": "mailto:375295565021@yandex.ru"
+        },
+        {
+          "Icon": "telegram",
+          "Title": "@TerehovAleksei",
+          "Link": "https://t.me/TerehovAleksei"
+        },
+        {
+          "Icon": "linkedin",
+          "Title": "linkedin.com/in",
+          "Link": "https://www.linkedin.com/in/terehov-aleksey/"
+        },
+        {
+          "Icon": "github",
+          "Title": "github.com/TerehovAleksey",
+          "Link": "https://github.com/TerehovAleksey"
+        }
+      ]
+    },
+    {
+      "Title": "Portfolio",
+      "Items": [
+        {
+          "Icon": "globe-americas",
+          "Title": "terehovaleksey.github.io/courier-telegram",
+          "Link": "https://terehovaleksey.github.io/courier-telegram"
+        }
+      ]
     }
-  },
-  "ContactSection": {
-    "Title": "Контакты",
-    "Contacts": [
-      {
-        "Icon": "telephone-inbound-fill",
-        "Title": "+375(29)556-50-21",
-        "Link": "tel:+375295565021"
-      },
-      {
-        "Icon": "envelope-at",
-        "Title": "375295565021@yandex.ru",
-        "Link": "mailto:375295565021@yandex.ru"
-      },
-      {
-        "Icon": "telegram",
-        "Title": "@TerehovAleksei",
-        "Link": "https://t.me/TerehovAleksei"
-      },
-      {
-        "Icon": "linkedin",
-        "Title": "linkedin.com/in",
-        "Link": "https://www.linkedin.com/in/terehov-aleksey/"
-      },
-      {
-        "Icon": "github",
-        "Title": "github.com/TerehovAleksey",
-        "Link": "https://github.com/TerehovAleksey"
-      }
-    ]
-  },
-  "PortfolioSection": {
-    "Title": "Портфолио",
-    "Potrfolio": {
-      "Icon": "globe-americas",
-      "Title": "моя страница",
-      "Link": "https://terehovaleksey.github.io/courier-telegram"
-    }
-  },
+  ],
   "EducationSection": {
-    "Title": "Образование",
-    "Education": [
+    "Title": "Education",
+    "Items": [
       {
         "Years": "2019 - 2019",
-        "Skill": "Разработчик C#",
+        "Skill": "C# Developer",
         "Place": "Otus"
       },
       {
@@ -65,31 +71,31 @@
       },
       {
         "Years": "2002 - 2007",
-        "Skill": "Радиотехника",
-        "Place": "Белорусский государственный университет информатики и радиоэлектроники"
+        "Skill": "Radio engineering",
+        "Place": "Belarusian State University of Informatics and Radioelectronics"
       }
     ]
   },
   "LanguageSection": {
-    "Title": "Языки",
-    "Languages": [
+    "Title": "Languages",
+    "Items": [
       {
-        "Language": "Русский",
+        "Language": "Russian",
         "Level": 90
       },
       {
-        "Language": "Английский",
+        "Language": "English",
         "Level": 45
       }
     ]
   },
   "MainSection": {
-    "Title": "Обо мне",
+    "Title": "Profile",
     "Description": "Коммуникабельный, целеустремлённый и активный FullStack-разработчик. Люблю своё дело и постоянно развиваюсь в нём. Легко нахожу общий язык с коллективом и люблю работать в команде. Постоянно принимаю участие во многих открытых мероприятиях и прохожу обучение на разнообразных онлайн платформах для повышения квалификации.\r\nВеду активный и спортивный образ жизни."
   },
   "ExperienceSection": {
-    "Title": "Опыт работы",
-    "Experience": [
+    "Title": "Experience",
+    "Items": [
       {
         "Years": "c 2022",
         "Company": "Фриланс",
@@ -118,7 +124,7 @@
   },
   "SkillSection": {
     "Title": "Ключевые навыки",
-    "Skills": [
+    "Items": [
       {
         "Skill": ".net/C#",
         "Level": 85
@@ -151,7 +157,7 @@
   },
   "InterestsSection": {
     "Title": "Интересы",
-    "Interests": [
+    "Items": [
       {
         "Icon": "bicycle",
         "Title": "Спорт"
