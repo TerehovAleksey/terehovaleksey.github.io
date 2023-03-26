@@ -50,20 +50,12 @@
       "Items": [
         {
           "Icon": "globe-americas",
-          "Title": "terehovaleksey.github.io/courier-telegram",
-          "Link": "https://terehovaleksey.github.io/courier-telegram"
+          "Title": "terehovaleksey.github.io",
+          "Link": "https://terehovaleksey.github.io/portfolio"
         }
       ]
     }
   ],
-  "PortfolioSection": {
-    "Title": "Портфолио",
-    "Potrfolio": {
-      "Icon": "globe-americas",
-      "Title": "моя страница",
-      "Link": "https://terehovaleksey.github.io/courier-telegram"
-    }
-  },
   "EducationSection": {
     "Title": "Образование",
     "Items": [

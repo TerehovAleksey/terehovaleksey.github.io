@@ -50,8 +50,8 @@
       "Items": [
         {
           "Icon": "globe-americas",
-          "Title": "terehovaleksey.github.io/courier-telegram",
-          "Link": "https://terehovaleksey.github.io/courier-telegram"
+          "Title": "terehovaleksey.github.io",
+          "Link": "https://terehovaleksey.github.io/portfolio"
         }
       ]
     }
@@ -123,7 +123,7 @@
     ]
   },
   "SkillSection": {
-    "Title": "Ключевые навыки",
+    "Title": "Hard Skills",
     "Items": [
       {
         "Skill": ".net/C#",
@@ -156,23 +156,23 @@
     ]
   },
   "InterestsSection": {
-    "Title": "Интересы",
+    "Title": "Interests",
     "Items": [
       {
         "Icon": "bicycle",
-        "Title": "Спорт"
+        "Title": "Sport"
       },
       {
         "Icon": "boombox",
-        "Title": "Музыка"
+        "Title": "Music"
       },
       {
         "Icon": "airplane",
-        "Title": "Поездки"
+        "Title": "Trips"
       },
       {
         "Icon": "cpu",
-        "Title": "Радиотехника"
+        "Title": "Electronics"
       }
     ]
   }

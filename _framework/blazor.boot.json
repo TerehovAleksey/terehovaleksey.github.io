@@ -8,7 +8,7 @@
   "resources": {
     "assembly": {
       "Cv.DataServices.dll": "sha256-lCCdwhhm7vi5gpsM7bKKg8C30H4zZzPlZvycGxb7qpc=",
-      "CvWasm.dll": "sha256-or5yIY4A6pcHpoQGTjSM4GtbxO98TjkVVYT+JHb8pfA=",
+      "CvWasm.dll": "sha256-DBu3bKBxf81Fpn7ftStrCnA4QrkCJgWaNqR8S8NqSak=",
       "Microsoft.AspNetCore.Components.dll": "sha256-ABzEPP11QcPMSjmOEFfvv8xNZ\/OjHIZ0F6mzJLmOXsQ=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-ATi54TvJyIXfPq22NIziok2JEdspTnASPCS4y98Z2WU=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-iZfanqzFrc4VI9hTfJXbYDOJ843I16lFq7cuIeA574Y=",
