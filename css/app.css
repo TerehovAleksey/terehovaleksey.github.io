@@ -36,7 +36,8 @@ body {
 
 .loading {
     position: relative;
-    display: block;
+    display: flex;
+    justify-content: center;
 }
 
 
@@ -62,8 +63,8 @@ body {
 .loading-progress-text {
     position: absolute;
     font-weight: bold;
-    top: 52px;
-    left: 48px;
+    top: 50%;
+    transform: translateY(-50%);
 }
 
     .loading-progress-text:after {
